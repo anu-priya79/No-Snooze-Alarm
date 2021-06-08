@@ -1,2 +1,2 @@
 # No-Snooze-Alarm
-It is an case study for an alarm app.
+It is a case study for an alarm app.
